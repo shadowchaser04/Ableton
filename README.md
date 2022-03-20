@@ -74,6 +74,9 @@
 
     Command Shift Delete - Deletes highlighted section and join the space
 
+    Command i - Draw a highlighted area and insert space will add the space
+    preceeding it
+
 ## <img src="https://github.com/shadowchaser04/ableton/blob/master/images/AbletonIcon.png" align="left" width="48px" height="48px"/> Automation
 
     Backspace - Clear selected automation
