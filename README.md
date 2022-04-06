@@ -79,6 +79,8 @@
 
 ## <img src="https://github.com/shadowchaser04/ableton/blob/master/images/AbletonIcon.png" align="left" width="48px" height="48px"/> Automation
 
+    a - Toggle automation visible    
+
     Backspace - Clear selected automation
 
     Command backspace - Clear all clips automation
